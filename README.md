@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>I’m a self-learner currently focused on mastering Python and Data Structures & Algorithms.<br><br>I enjoy solving problems, learning new concepts, and improving my skills every day.  <br>I also have experience teaching students, which has helped me build strong understanding and patience.<br><br>Beyond coding, I’m interested in art and creativity.  <br>My goal is to become a skilled developer and build useful projects.
+<br>I’m a self-learner currently focused on mastering Python and Data Structures & Algorithms.<br><br>I enjoy solving problems, learning new concepts, and improving my skills every day.  <br>I also have experience teaching students, which has helped me build strong understanding and patience.<br><br>Beyond coding, I’m interested in art and creativity.  <br>My goal is to become a skilled developer and build useful projects.
 
 
 ## 🌐 Socials:
