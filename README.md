@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br>I’m a self-learner currently focused on mastering Python and Data Structures & Algorithms.<br><br>I enjoy solving problems, learning new concepts, and improving my skills every day.  <br>I also have experience teaching students, which has helped me build strong understanding and patience.<br><br>Beyond coding, I’m interested in art and creativity.  <br>My goal is to become a skilled developer and build useful projects.
 
-
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankush.sharmx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankush-sharmx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankush00962@gmail.com) 
 
